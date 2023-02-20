@@ -1,3 +1,23 @@
-# three-js-simple-scene
+# Three.js ▪️ Webpack ▪️ JavaScript
 
-JavaScript ▪️ Three.js ▪️ Blender
+👋 Hello there!
+
+---
+
+#### Project structure 🗃️
+
+```
+project/
+├── dist/
+│   └── index.html
+│   └── main.js
+├── src/
+│   ├── index.js
+│   ├── app/
+│   │   └── app.js
+│   │   └── app.css
+│   └── models
+│       └── room.glb
+├── package.json
+└── webpack.config.js
+```

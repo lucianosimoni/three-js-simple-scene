@@ -1,0 +1,30 @@
+{
+    "name": "three-js-simple-scene",
+    "version": "1.0.0",
+    "description": "JavaScript ▪️ Three.js ▪️ Blender",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack-dev-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lucianosimoni/three-js-simple-scene.git"
+    },
+    "author": "Luciano Simoni",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lucianosimoni/three-js-simple-scene/issues"
+    },
+    "homepage": "https://github.com/lucianosimoni/three-js-simple-scene#readme",
+    "dependencies": {
+        "three": "^0.149.0",
+        "webpack": "^5.75.0",
+        "webpack-cli": "^5.0.1"
+    },
+    "devDependencies": {
+        "css-loader": "^6.7.3",
+        "style-loader": "^3.3.1",
+        "webpack-dev-server": "^4.11.1"
+    }
+}
