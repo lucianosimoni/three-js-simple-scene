@@ -1,3 +1,3 @@
-import { animate } from './app/app.js';
+import { render } from './app/app.js';
 
-animate();
+render();
